@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: linear-gradient(130deg, rgb(180, 220, 246), rgb(145, 133, 236));
+	min-height: 100dvh;
+}
+
+.title1{
+	color: rgb(255, 255, 255);
+	display: flex; 
+	font-weight: bold;
+	margin: 30px;
+}
+
+.firstPart{
+	display: flex;
+  flex-direction: column;
+}
+
+.templateContainer{
+	margin: 5% 0;
+}
+
+.templateContainer > .searchInput_Container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.searchInput_Container{
+	--size: 40px;
+	height: 0dvh;
+	margin-top: 20dvh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.input {
+	width: 600px;
+	height: var(--size);
+	outline: none;
+	font-size: 16px;
+	padding-left: 5px;
+	color:rgb(4, 4, 59);
+}
+.search_Button {
+	width: 60px;
+	height: var(--size);
+	margin-left: 5px;
+	background-color: rgb(255, 255, 255);
+	cursor: pointer;
+}
+
+.templateContainer > .searchInput_Container input{
+	width: 50%;
+	padding: 10px;
+	outline: none;
+}
+.templateContainer .template_Container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+}
+.template{
+	background-color: rgb(108, 142, 243);
+	margin-left: 20px;
+	margin: 30px;
+	padding: 10px 50px;
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	gap: 20px;
+	display: flex;
+	border-radius: 15px;
+	/* justify-content: space-between; */
+}
+
+.title{
+	color:rgb(255, 255, 255);
+	font-weight: bolder;
+}
+
+.image {
+	width: 300px;
+	margin-top: 50px;
+}
+
+.price{
+	display: inline-block;
+}
+
+.descriptionContainer{
+	display: flex;
+  flex-direction: column;
+}
+.restDescription {
+	display: block;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.moreButton{
+	display: block;
+	background-color: rgb(145, 159, 247);
+	border: solid 2px;
+	border-color: rgb(255, 255, 255);
+	margin-top: 30px;
+	width: 60px;
+	height: 40px;
+}
+
+.rating {
+  font-size: 24px; 
+}
+
+.star {
+  color: gold;
+  display: inline-block;
+}
+
+.star::before {
+  content: '\2605';
+  position: absolute;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+  color: transparent;
+}
+
+
+
+
+.link{
+	color: white;
+	text-decoration: none;
+}
