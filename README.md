@@ -1,6 +1,6 @@
 # React and Node Project
 
-This project is a combination of a React frontend and a Node backend. The server-side code is located in the `./server` folder, and the frontend code is in the `src` directory.
+This project is a combination of a React frontend and a Node, Express backend. The server-side code is located in the `./server` folder, and the frontend code is in the `src` directory.
 
 ## Prerequisites
 
@@ -8,13 +8,14 @@ Before running this project, make sure you have the following installed:
 
 - Node.js: [Download & Install Node.js](https://nodejs.org/en/download/)
 - npm: npm comes with Node.js, so if you have Node.js installed, you should have npm as well.
+- express
 
 ## Installation
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/TamaraBabayan/YelpForArmenia-small-prototype.git
 ```
 
 2. Navigate to the root directory of the project:
