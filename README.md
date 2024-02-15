@@ -33,10 +33,13 @@ cd ..
 To run the project, follow these steps:
 
 Start the Node server:
+```bash
 cd server
 node updateJson.js
+```
 
 Start the React frontend:
+```bash
 npm start
-
+```
 
