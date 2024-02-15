@@ -1,0 +1,11 @@
+.title{
+	color: rgb(255, 255, 255);
+	display: flex; 
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.header{
+	margin: 20px;
+	cursor: pointer;
+}

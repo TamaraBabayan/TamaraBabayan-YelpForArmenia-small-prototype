@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/b5/df/1f/new-year-s-fairy-tale.jpg",
+    "title": "Tavern Restaurant",
+    "price": "$$",
+    "description": [
+      "It is our pleasure to host you in the beautiful halls of Tavern Yerevan restaurant where you will appear in an unmatched environment ",
+      "offering an excellent combination of price, quality and service. The menu of the restaurant includes a number of dishes, some of which have endured for",
+      " cuisine that will feature forgotten or almost forgotten dishes. We have also included the best samples of the ",
+      "\n Caucasian cuisine that are suitable to our customers’ taste, but are also unique and somewhat different."
+    ],
+    "link": "https://pandokyerevan.com/en",
+    "currentRating": "5.00"
+  },
+  {
+    "id": 2,
+    "image": "https://genacvale.am/wp-content/uploads/2021/10/Hnet.com-image-2021-10-22T173457.259.jpg",
+    "title": "Genacvale Pandok",
+    "price": "$",
+    "description": "Armenian, Georgian, Vegetarian, Friendly",
+    "link": "https://genacvale.am/en/",
+    "currentRating": "5.00"
+  },
+  {
+    "id": 3,
+    "image": "https://www.dinin.am/wp-content/uploads/2021/08/FINDIN-Livingston-Restaurant-1.jpg",
+    "title": "Livingston",
+    "price": "$$$",
+    "description": [
+      "The “Livingston” restaurant was opened on October 4,",
+      "2019 and is located on the 9th floor of one of the architectural",
+      "symbols of Yerevan, built in 1986, the Sports and Concert Complex after K. Demirchyan.",
+      " A magnificent panorama of the sunny capital of Yerevan opens from the balconies of the restaurant.",
+      " The “Livingston” restaurant's name and concept were inspired by the building architecture which evoked associations with the opening of a bird's wings during the soaring,",
+      " and the view of the sky from the balconies. "
+    ],
+    "link": "https://www.yeremyanprojects.com/en/restaurants/livingston",
+    "currentRating": "5.00"
+  }
+]
