@@ -14,7 +14,7 @@ Before running this project, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone 
 ```
 
 2. Navigate to the root directory of the project:
