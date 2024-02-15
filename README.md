@@ -17,7 +17,10 @@ Before running this project, make sure you have the following installed:
 git clone https://github.com/your-username/your-repository.git
 
 2. Navigate to the root directory of the project:
+
+```bash
 cd YelpForArmenia-small-prototype
+
 
 Install dependencies for both frontend and backend:
 npm install
